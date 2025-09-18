@@ -1,1 +1,1 @@
-This Project is called Fitflex_project
+This Project is called Fitflex_project.
